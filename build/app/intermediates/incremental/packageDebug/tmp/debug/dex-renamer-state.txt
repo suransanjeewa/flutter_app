@@ -1,0 +1,4 @@
+#Sat Nov 19 04:35:40 IST 2022
+base.0=C\:\\flutter projects\\firebase_auth\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
